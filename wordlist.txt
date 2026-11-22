@@ -1,0 +1,7 @@
+about
+login
+dashboard
+secret
+config
+admin
+backup
